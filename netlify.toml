@@ -1,6 +1,6 @@
 [build]
   command="ng build"
-  publish="dist/angular_json_server"
+  publish="dist/my-app"
 
 [[redirects]]
   from = "/*"
